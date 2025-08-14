@@ -141,7 +141,7 @@ h6 {
 
 .nav-link {
   font-weight: 500;
-  font-size: 0.95rem;
+  font-size: 1rem; /* 0.95rem */;
 }
 
 /* Additional elements for description font */
@@ -643,7 +643,7 @@ small {
 
 .btn,
 .form-control {
-  padding: 0.375rem 0.75rem;
+  padding: 0.375rem 0.9rem /* 0.75rem */;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -674,7 +674,7 @@ small {
 
 .table td,
 .table th {
-  padding: 0.75rem;
+  padding: 0.9rem /* 0.75rem */;
   vertical-align: top;
   border-top: 1px solid #dee2e6;
 }
@@ -697,7 +697,7 @@ small {
 .form-control {
   display: block;
   width: 100%;
-  height: calc(1.9em + 0.75rem + 2px);
+  height: calc(1.9em + 0.9rem /* 0.75rem */ + 2px);
   color: #141414;
   background-color: #fff;
   background-clip: padding-box;
@@ -1044,7 +1044,7 @@ button.close {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  padding: 0.25rem 0.9rem /* 0.75rem */;
   font-size: 1.25rem;
   line-height: 1;
   border: 1px solid transparent;
@@ -3989,7 +3989,7 @@ a.drift-open-chat {
 }
 
 p {
-  text-align: justify;
+  text-align: left;
 }
 
 /* Thank you page */
@@ -4493,7 +4493,7 @@ iframe {
   }
 
   .interior-details li {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     padding: 6px 0;
     padding-left: 18px;
   }
@@ -4514,7 +4514,7 @@ iframe {
   }
 
   .interior-details li {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
     padding: 5px 0;
     padding-left: 16px;
   }
@@ -4772,12 +4772,12 @@ p.section-description {
   }
 
   .wellness-card-text {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 12px;
   }
 
   .wellness-features-list {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     min-height: 40px;
   }
 
@@ -4844,7 +4844,7 @@ p.section-description {
   }
 
   .wellness-features-list {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
     min-height: 35px;
     padding-top: 10px;
   }
@@ -4895,7 +4895,7 @@ p.section-description {
   }
 
   .wellness-card-title {
-    font-size: 0.95rem;
+    font-size: 1rem;
     margin-bottom: 6px;
   }
 
@@ -4948,12 +4948,12 @@ p.section-description {
   }
 
   .wellness-card-title {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 5px;
   }
 
   .wellness-card-text {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     margin-bottom: 6px;
     line-height: 1.2;
   }
@@ -5063,7 +5063,7 @@ a.enqModal:hover .wellness-card-title {
 
 .author-details span {
   color: #141414;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   display: block;
   margin-bottom: 8px;
 }
@@ -5075,7 +5075,7 @@ a.enqModal:hover .wellness-card-title {
 
 .rating i {
   color: #ffc107;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
 }
 
 .testimonials-summary {
@@ -5100,7 +5100,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   color: #141414;
   font-weight: 500;
   text-transform: uppercase;
@@ -5144,7 +5144,7 @@ a.enqModal:hover .wellness-card-title {
   color: white;
   padding: 8px 16px;
   border-radius: 25px;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   font-weight: 600;
   margin-bottom: 20px;
   box-shadow: 0 3px 10px rgba(27, 139, 0, 0.35);
@@ -5316,7 +5316,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .testimonial-quote p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-left: 15px;
   }
 
@@ -5367,7 +5367,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .stat-label {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
   }
 
   .priority-benefit-item {
@@ -5455,7 +5455,7 @@ a.enqModal:hover .wellness-card-title {
 
   .priority-badge {
     padding: 6px 12px;
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
     margin-bottom: 15px;
   }
 
@@ -5465,7 +5465,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .priority-description {
-    font-size: 0.95rem;
+    font-size: 1rem;
     margin-bottom: 20px;
   }
 
@@ -5475,7 +5475,7 @@ a.enqModal:hover .wellness-card-title {
 
   .feature-item {
     margin-bottom: 10px;
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .priority-info-card .btn {
@@ -5504,7 +5504,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .priority-benefit-item p {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
   }
 }
 
@@ -5520,7 +5520,7 @@ a.enqModal:hover .wellness-card-title {
 
   .priority-badge {
     padding: 5px 10px;
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     margin-bottom: 12px;
   }
 
@@ -5529,12 +5529,12 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .priority-description {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .feature-item {
     margin-bottom: 8px;
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
   }
 
   .priority-features {
@@ -5543,7 +5543,7 @@ a.enqModal:hover .wellness-card-title {
 
   .priority-info-card .btn {
     padding: 12px 20px;
-    font-size: 0.95rem;
+    font-size: 1rem;
   }
 
   .priority-benefit-item {
@@ -5561,12 +5561,12 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .priority-benefit-item h5 {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
     margin-bottom: 8px;
   }
 
   .priority-benefit-item p {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     line-height: 1.4;
   }
 }
@@ -5748,7 +5748,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   color: #141414;
   font-weight: 500;
   text-transform: uppercase;
@@ -5766,7 +5766,7 @@ a.enqModal:hover .wellness-card-title {
   display: flex;
   align-items: center;
   margin-bottom: 12px;
-  font-size: 0.95rem;
+  font-size: 1rem; /* 0.95rem */;
 }
 
 .contact-item:last-child {
@@ -5802,7 +5802,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .developer-details p {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 
   .developer-stats .stat-item {
@@ -5824,7 +5824,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .stat-label {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
   }
 
   .developer-contact-info {
@@ -5832,7 +5832,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .contact-item {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 10px;
   }
 }
@@ -5849,7 +5849,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .developer-details p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 15px;
   }
 
@@ -5872,7 +5872,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .stat-label {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
   }
 
   .developer-contact-info {
@@ -5880,7 +5880,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .contact-item {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
     margin-bottom: 8px;
   }
 }
@@ -5992,7 +5992,7 @@ a.enqModal:hover .wellness-card-title {
 
 .why-choose-item p {
   color: #141414;
-  font-size: 0.95rem;
+  font-size: 1rem; /* 0.95rem */;
   line-height: 1.6;
   margin-bottom: 0;
 }
@@ -6032,7 +6032,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   color: #141414;
   font-weight: 600;
   text-transform: uppercase;
@@ -6062,7 +6062,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .why-choose-item p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .why-choose-stats {
@@ -6080,7 +6080,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .stat-label {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
   }
 }
 
@@ -6105,7 +6105,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .why-choose-item p {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
     line-height: 1.5;
   }
 
@@ -6122,7 +6122,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .stat-label {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
   }
 }
 
@@ -6252,7 +6252,7 @@ a.enqModal:hover .wellness-card-title {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.8rem;
+  font-size: 0.95rem; /* 0.8rem */;
   transition: all 0.2s ease;
 }
 
@@ -6323,7 +6323,7 @@ a.enqModal:hover .wellness-card-title {
   padding: 10px 20px;
   border-radius: 25px;
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   transform: translateY(20px);
   transition: all 0.3s ease;
 }
@@ -6398,7 +6398,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .pricing-feature ul li {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .at-property-img img {
@@ -6551,7 +6551,7 @@ a.enqModal:hover .wellness-card-title {
   padding: 10px 20px;
   border-radius: 25px;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   transition: all 0.3s ease;
 }
 
@@ -6561,7 +6561,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .simple-card-btn i {
-  font-size: 0.8rem;
+  font-size: 0.95rem; /* 0.8rem */;
   transition: transform 0.3s ease;
 }
 
@@ -6603,7 +6603,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .pricing-feature ul li {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
     padding: 10px 0;
     padding-left: 25px;
   }
@@ -6621,7 +6621,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .simple-card-content p {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 }
 
@@ -6637,7 +6637,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .pricing-feature ul li {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     padding: 8px 0;
     padding-left: 20px;
     text-align: center;
@@ -6650,7 +6650,7 @@ a.enqModal:hover .wellness-card-title {
   .pricing-feature ul li:before {
     width: 18px;
     height: 18px;
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
   }
 
   .simple-card-content {
@@ -6662,13 +6662,13 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .simple-card-content p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 20px;
   }
 
   .simple-card-btn {
     padding: 10px 20px;
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 }
 
@@ -6687,7 +6687,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .simple-card-content p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 }
 
@@ -6799,7 +6799,7 @@ a.enqModal:hover .wellness-card-title {
   padding: 8px 20px;
   border-radius: 20px;
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   border: 2px solid transparent;
   transition: all 0.3s ease;
 }
@@ -6831,7 +6831,7 @@ a.enqModal:hover .wellness-card-title {
 
 .plan-card-footer p {
   color: #141414;
-  font-size: 0.9rem;
+  font-size: 1rem; /* 0.9rem */
   line-height: 1.4;
 }
 
@@ -6915,11 +6915,11 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .plan-card-footer h5 {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 
   .plan-card-footer p {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
   }
 
   .plan-item {
@@ -6994,7 +6994,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .rera-additional {
-  font-size: 0.85rem;
+  font-size: 0.94rem; /* 0.85rem */;
   color: #141414;
   font-family: monospace;
   word-break: break-all;
@@ -7143,7 +7143,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .section-description {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 25px;
   }
 
@@ -7154,7 +7154,7 @@ a.enqModal:hover .wellness-card-title {
 
   .navbar-nav .nav-link {
     padding: 8px 12px;
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
   }
 
   /* Info Box */
@@ -7209,7 +7209,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .interior-details ul li {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
     margin-bottom: 8px;
   }
 
@@ -7228,7 +7228,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .wellness-card-text {
-    font-size: 0.85rem;
+    font-size: 0.94rem; /* 0.85rem */;
   }
 
   /* Gallery Section */
@@ -7244,11 +7244,11 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .testimonial-quote p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .author-details h5 {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 
   /* Developer Section */
@@ -7275,7 +7275,7 @@ a.enqModal:hover .wellness-card-title {
   /* Buttons */
   .btn {
     padding: 12px 20px;
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   .btn-lg {
@@ -7317,7 +7317,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .wellness-card-text {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
     margin-bottom: 6px;
     line-height: 1.2;
   }
@@ -7404,12 +7404,12 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .wellness-card-text {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     margin-bottom: 8px;
   }
 
   .wellness-features-list {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
     min-height: 30px;
   }
 
@@ -7794,7 +7794,7 @@ a.enqModal:hover .wellness-card-title {
 .why-choose-item.compact .choose-icon {
   width: 50px;
   height: 50px;
-  margin: 0 auto 0.75rem;
+  margin: 0 auto 0.9rem /* 0.75rem */;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -7863,7 +7863,7 @@ a.enqModal:hover .wellness-card-title {
   background: white;
   border: 1px solid #e9ecef;
   border-radius: 10px;
-  padding: 1rem 0.75rem;
+  padding: 1rem 0.9rem /* 0.75rem */;
   transition: all 0.3s ease;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   height: 100%;
@@ -7887,7 +7887,7 @@ a.enqModal:hover .wellness-card-title {
 }
 
 .stat-card.compact .stat-label {
-  font-size: 0.75rem;
+  font-size: 0.9rem /* 0.75rem */;
   color: #141414;
   text-transform: uppercase;
   font-weight: 500;
@@ -7922,7 +7922,7 @@ a.enqModal:hover .wellness-card-title {
 /* Responsive adjustments for Why Choose section */
 @media (max-width: 768px) {
   .why-choose-item.compact {
-    padding: 0.75rem;
+    padding: 0.9rem /* 0.75rem */;
     margin-bottom: 1rem;
   }
 
@@ -7934,16 +7934,16 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .why-choose-item.compact h5 {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 
   .why-choose-item.compact p.small {
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
   }
 
   .stat-card.compact {
-    padding: 0.75rem 0.5rem;
-    margin-bottom: 0.75rem;
+    padding: 0.9rem /* 0.75rem */ 0.5rem;
+    margin-bottom: 0.9rem /* 0.75rem */;
   }
 
   .stat-card.compact .stat-number {
@@ -7960,7 +7960,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .why-choose-content .section-description {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
     margin-bottom: 1rem;
   }
 }
@@ -7982,12 +7982,12 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .why-choose-item.compact h5 {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 0.4rem;
   }
 
   .why-choose-item.compact p.small {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
     line-height: 1.3;
   }
 }
@@ -8059,7 +8059,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   #pricing .section-description {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
     text-align: center;
     margin-bottom: 25px;
   }
@@ -8076,7 +8076,7 @@ a.enqModal:hover .wellness-card-title {
   /* Buttons and CTAs */
   .btn {
     padding: 10px 20px;
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
   }
 
   /* Navigation */
@@ -8085,7 +8085,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .navbar-nav .nav-link {
-    font-size: 0.95rem !important;
+    font-size: 1rem /* 0.95rem */ !important;
     padding: 8px 15px !important;
   }
 
@@ -8119,7 +8119,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .pricing-feature ul li {
-    font-size: 0.95rem;
+    font-size: 1rem; /* 0.95rem */;
     padding: 8px 0;
     margin-bottom: 8px;
     list-style: none;
@@ -8129,7 +8129,7 @@ a.enqModal:hover .wellness-card-title {
 
   .pricing-feature ul li:before {
     left: 0;
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
   }
 
   /* Simple pricing card for tablet */
@@ -8151,13 +8151,13 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .simple-card-content p {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     margin-bottom: 20px;
     line-height: 1.4;
   }
 
   .simple-card-btn {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     padding: 10px 15px;
   }
 
@@ -8263,7 +8263,7 @@ a.enqModal:hover .wellness-card-title {
     background-color: var(--light-blue);
 
     border: none !important;
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     color: white !important;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -8297,7 +8297,7 @@ a.enqModal:hover .wellness-card-title {
 
   /* Make the buttons more compact */
   .og-block .nav-item:first-child {
-    font-size: 0.75rem;
+    font-size: 0.9rem /* 0.75rem */;
   }
 
   .og-block .nav-item:nth-child(2) i {
@@ -8396,7 +8396,7 @@ a.enqModal:hover .wellness-card-title {
 
   .mob-action .nav-item a {
     padding: 10px;
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
   }
 
   /* Form Check Styling */
@@ -8405,7 +8405,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .form-check-label {
-    font-size: 0.85rem !important;
+    font-size: 0.94rem /* 0.85rem */ !important;
     line-height: 1.4;
   }
 
@@ -8441,7 +8441,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .form-check-label {
-    font-size: 0.9rem;
+    font-size: 1rem; /* 0.9rem */
     line-height: 1.4;
   }
 
@@ -8557,7 +8557,7 @@ a.enqModal:hover .wellness-card-title {
   }
 
   .form-check-label {
-    font-size: 0.75rem !important;
+    font-size: 0.9rem /* 0.75rem */ !important;
     line-height: 1.3;
   }
 
@@ -8595,7 +8595,7 @@ a.enqModal:hover .wellness-card-title {
 
   .mob-action .nav-item a {
     padding: 8px 5px;
-    font-size: 0.8rem;
+    font-size: 0.95rem; /* 0.8rem */;
     flex-direction: column;
   }
 
