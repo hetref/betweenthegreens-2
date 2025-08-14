@@ -7107,6 +7107,23 @@ a.enqModal:hover .wellness-card-title {
   min-height: 200px;
 }
 
+.desk-display {
+  display: block !important;
+}
+
+.mob-display {
+  display: none !important;
+}
+
+@media screen and (max-width: 425px) {
+  .desk-display {
+    display: none !important;
+  }
+  .mob-display {
+    display: block !important;
+  }
+}
+
 /* ============================================
    COMPREHENSIVE RESPONSIVE DESIGN FOR ALL SECTIONS
    ============================================ */
@@ -8556,6 +8573,7 @@ a.enqModal:hover .wellness-card-title {
   .hero-banner img {
     display: block !important;
     width: 100% !important;
+    height: 360px !important
   }
 
   /* Mob Action Mobile Fixes */
